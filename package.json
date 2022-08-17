@@ -1,6 +1,6 @@
 {
   "name": "mobrix-designer-plugin-forms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Drive your custom modal forms with MoBrix-designer system",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
