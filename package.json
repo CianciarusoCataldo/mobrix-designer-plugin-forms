@@ -1,6 +1,6 @@
 {
   "name": "mobrix-designer-plugin-forms",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Drive your custom modal forms with MoBrix-designer system",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -21,13 +21,13 @@
   "homepage": "https://github.com/CianciarusoCataldo/mobrix-designer-plugin-forms#readme",
   "peerDependencies": {
     "mobrix-designer-tools": "^1.0.0",
-    "mobrix-ui": "^1.0.1",
+    "mobrix-ui": "^2.0.1",
     "react": ">=16",
     "react-redux": "^7.2.6"
   },
   "devDependencies": {
     "mobrix-designer-tools": "^1.0.0",
-    "mobrix-ui": "^1.0.1",
+    "mobrix-ui": "^2.0.1",
     "react": ">=16",
     "react-redux": "^7.2.6",
     "rollup": "^2.44.0",
